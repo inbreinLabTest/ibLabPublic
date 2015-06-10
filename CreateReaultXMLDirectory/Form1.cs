@@ -24,7 +24,7 @@ namespace CreateReaultXMLDirectory
         {
             if (this.txtPath.Text == "")
             {
-                MessageBox.Show("결과 파일들이 있는 경로를 입력해주세요");
+                MessageBox.Show("결과 파일이 없습니다 경로로 바꿔주세요~");
                 return;
             }
 
